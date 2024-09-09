@@ -1,0 +1,5 @@
+name: DeathInfoReadoutPlugin
+version: '1.0'
+main: me.megalodonbait.deathInfoReadoutPlugin.DeathInfoReadoutPlugin
+api-version: '1.13'
+description: Gives a readout of info surrounding a players death
