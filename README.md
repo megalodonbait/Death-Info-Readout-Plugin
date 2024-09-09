@@ -1,1 +1,1 @@
-Releases can be found in the releases tab.
+You can download the .jar file in the releases tab.
