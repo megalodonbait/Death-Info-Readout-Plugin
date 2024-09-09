@@ -1,5 +1,0 @@
-name: DeathLocation
-version: '1.0'
-main: me.megalodonbait.deathLocation.DeathLocation
-api-version: '1.13'
-description: Tells you your coordinates when you die
